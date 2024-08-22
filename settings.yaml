@@ -1,0 +1,16 @@
+default:
+  iface1:
+    name: "wlan1"
+    host: 192.168.34.50
+    gateway: 192.168.34.1
+  iface2:
+    name: "wlan0"
+    host: 192.168.93.13
+    gateway: 192.168.93.1
+  iface3:
+    name: "eth1"
+    host: 192.168.34.50
+    gateway: 192.168.34.1
+  server:
+    name: "quic.smalldragon.net"
+    host: 155.230.35.209

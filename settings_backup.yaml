@@ -1,0 +1,35 @@
+  iface1:
+    name: "eth1"
+    host: 192.168.112.71
+    gateway: 192.168.112.251
+
+  iface1:
+    name: "wlan1"
+    host: 192.168.0.3
+    gateway: 192.168.0.1
+    
+  iface1:
+    name: "wlan1"
+    host: 192.168.93.13
+    gateway: 192.168.93.1
+
+  iface1:
+    name: "wlan0"
+    host: 192.168.34.128
+    gateway: 192.168.34.1
+
+  iface1:
+    name: "eth1"
+    host: 192.168.34.180
+    gateway: 192.168.34.1
+
+  iface2:
+    name: "eth2"
+    host: 192.168.110.71
+    gateway: 192.168.110.75
+
+
+  iface1:
+    name: "wlan0"
+    host: 192.168.34.128
+    gateway: 192.168.34.1
